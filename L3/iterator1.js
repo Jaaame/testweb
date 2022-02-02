@@ -9,6 +9,6 @@ while(true){
 }
 console.log("\n*********************************************\n")
 
-for (let char of ['Table','Chairs','Couch']){
+for (let char of "hello"){
     console.log(char);
 }
